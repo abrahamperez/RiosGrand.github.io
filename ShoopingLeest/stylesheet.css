@@ -1,1 +1,16 @@
-
+nav{
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+}
+#shopping-list{
+ display: inline-block;
+  width: 20
+    0px;
+  height: 200px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: #8C8F8C;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
